@@ -6,7 +6,7 @@ package project_Euler;
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
  */
 
-public class P2_Even_Fibonacci_numbers {
+public class P002_Even_Fibonacci_numbers {
 	public static void main(String[] args) {
 		int a=1;
 		int b=2;

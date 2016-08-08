@@ -2,7 +2,7 @@ package project_Euler;
 
 import java.util.ArrayList;
 
-public class P3_Largest_prime_factor {
+public class P003_Largest_prime_factor {
 
 	
 	public static boolean prime_check(int num){

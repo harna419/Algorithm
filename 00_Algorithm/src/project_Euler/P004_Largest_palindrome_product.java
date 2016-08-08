@@ -5,7 +5,7 @@ package project_Euler;
 	Find the largest palindrome made from the product of two 3-digit numbers.
  * */
 
-public class P4_Largest_palindrome_product {
+public class P004_Largest_palindrome_product {
 
 	public static String reverseString(String s) {
 	    return ( new StringBuffer(s) ).reverse().toString();
